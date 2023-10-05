@@ -1,2 +1,6 @@
 # Google-Cloud-Networking
-Google cloud Networking
+Google Cloud Networking
+
+
+Day one of the Google Cloud Professional Certification Journey
+
